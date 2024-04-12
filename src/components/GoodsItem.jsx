@@ -14,11 +14,11 @@ function GoodsItem(props) {
     //     price,
     //     addToBasket = Function.prototype
     // } = props;
-    
+    console.log(full_background)
     return(
         <div className="card" id={id}>
             <div className="card-image">
-                { full_background == null ? <img src="no_image.png" alt={name} /> : <img src={full_background} alt={name} />}
+                { full_background == null ? <p style={{minHeight: "308px", textAlign: "center"}}>Фиг тебе, а не картинка</p> : <img src={full_background} alt={name} />}
                 
             </div>
             <div className="card-content">

@@ -13,7 +13,7 @@ function GoodsList(props) {
 
     return(
         <div className="goods">
-            {goods.slice(60, 90).map((item) => (
+            {goods.slice(30, 60).map((item) => (
                 <GoodsItem key={item} {...item} addToBasket={addToBasket} />
             ))}
         </div>
