@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Valerka-Shop/static/css/main.710a015f.css",
+    "main.js": "/Valerka-Shop/static/js/main.c53a3aa3.js",
+    "index.html": "/Valerka-Shop/index.html",
+    "main.710a015f.css.map": "/Valerka-Shop/static/css/main.710a015f.css.map",
+    "main.c53a3aa3.js.map": "/Valerka-Shop/static/js/main.c53a3aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710a015f.css",
+    "static/js/main.c53a3aa3.js"
+  ]
+}
